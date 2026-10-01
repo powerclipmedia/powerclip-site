@@ -1,0 +1,26 @@
+.vercel
+.env*
+
+# Dependencies and generated build output
+node_modules/
+.next/
+out/
+dist/
+build/
+
+# Local tooling and operating-system files
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# Accidental nested clone created during local setup
+/vercel-site/
+
+# Local inspection and generated artifacts
+*.tsbuildinfo
+/.tmp-*
+/local-*.png
+/logo-contrast-check.png
+/bridge/

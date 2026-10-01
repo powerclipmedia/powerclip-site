@@ -1,0 +1,1 @@
+.brand img{display:block;width:25px;height:32px;object-fit:contain;object-position:center}.footer .brand img{width:22px;height:28px}.umbrella-grid{grid-template-columns:repeat(3,1fr)}@media(max-width:800px){.umbrella-grid{grid-template-columns:1fr}}
